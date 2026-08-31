@@ -1,37 +1,40 @@
-<img src="./030ac21c407ce3fa72fc7cbfe0d76a3c.jpg" width="100%">
+<img src="./banner.png" width="100%">
 
+<h2>hey, i'm lovelybuu! ♡</h2>
 
-# hey, i'm lovelybuu! ♡
+<hr>
 
-I do **mostly gaming, tech, and optimization-related things.**
+<p>
+I make <b>gaming, tech, and optimization</b> stuff.
+</p>
 
-### ✦ what i'm into
+<ul>
+  <li>🎮 Roblox & gaming</li>
+  <li>⚡ FPS optimization & FastFlags</li>
+  <li>🛠️ Bloxstrap / Voidstrap</li>
+  <li>🎬 Video editing & content creation</li>
+  <li>🎨 Thumbnails & GFX</li>
+  <li>💻 PC optimization & customization</li>
+  <li>🎧 Spotify customization</li>
+</ul>
 
-- 🎮 Roblox & gaming
-- ⚡ Roblox optimization & FPS boosting
-- 🛠️ Bloxstrap / Voidstrap / FastFlags
-- 🎬 Video editing & content creation
-- 💻 Windows customization & PC optimization
-- 🎨 GFX, thumbnails & digital design
-- 🎧 Spotify customization & music
-- 📺 YouTube & streaming
+<h3>♡ currently working on</h3>
 
-### ✦ current projects
+<ul>
+  <li>Roblox optimization projects</li>
+  <li>Gaming utilities & configurations</li>
+  <li>Content creation projects</li>
+  <li>Random tech experiments</li>
+</ul>
 
-- Roblox optimization tools & configurations
-- Custom FastFlag setups
-- Gaming-related utilities
-- YouTube / content creation projects
-- Random tech experiments
+<h3>♡ tools</h3>
 
-### ✦ things i use
+<p>
+Windows · Roblox · JavaScript · Python · Git · Premiere Pro · After Effects · CapCut
+</p>
 
-`Windows` · `Roblox` · `JavaScript` · `Python` · `Git` · `Premiere Pro` · `After Effects` · `CapCut`
+<hr>
 
-### ✦ find me
-
-- YouTube — [@lovelybuu](https://youtube.com/@lovelybuux)
-- Discord — `lovelybuu`
-- GitHub — you're already here ♡
-
-> making things because it's fun, not because I have to.
+<p>
+<b>making things because it's fun ♡</b>
+</p>
