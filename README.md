@@ -1,4 +1,4 @@
-<img src="./banner.png" width="100%">
+<img src="./030ac21c407ce3fa72fc7cbfe0d76a3c.jpg" width="100%">
 
 <h2>hey, i'm lovelybuu! ♡</h2>
 
